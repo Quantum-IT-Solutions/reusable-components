@@ -1,0 +1,9 @@
+{
+  "name": "Reusable-components",
+  "version": "1.0.0",
+  "description": "This is for reusable components.",
+  "main": "index.js",
+  "repository": "git@github.com:Quantum-IT-Solutions/reusable-components.git",
+  "author": "Hulululu",
+  "license": "MIT"
+}
