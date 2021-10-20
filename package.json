@@ -1,0 +1,8 @@
+{
+  "name": "Reusable-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bisu-rai/reusable-components.git",
+  "author": "Bisu-rai",
+  "license": "MIT"
+}
